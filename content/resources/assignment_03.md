@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f9aad33b-65fd-1ff6-a13d-f716e3f90603
 resourcetype: Document
 title: Image Map
 uid: 01c61e3e-aa10-7547-a237-fdd0b2a72e9f

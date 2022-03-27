@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f9aad33b-65fd-1ff6-a13d-f716e3f90603
 resourcetype: Document
 title: "\u201CName Map\u201D Phrase"
 uid: b0c64af0-3dc1-3dce-3644-dcebd8494fae

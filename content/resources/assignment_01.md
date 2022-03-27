@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f9aad33b-65fd-1ff6-a13d-f716e3f90603
 resourcetype: Document
 title: Accumulation Exercise
 uid: 3c9348d5-ce3a-9d0e-4358-eabf37a3c344
