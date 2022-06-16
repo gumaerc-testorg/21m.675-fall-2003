@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section features examples of student projects filmed for the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Projects
 uid: c3271bee-f1a6-cd13-f8b7-5f60ac7cadb0
 ---
 
-Several student projects were filmed for this course. Please see the corresponding [descriptions]({{< baseurl >}}/pages/assignments) of these assignments.
+Several student projects were filmed for this course. Please see the corresponding {{% resource_link f9aad33b-65fd-1ff6-a13d-f716e3f90603 "descriptions" %}} of these assignments.
 
 Word Phrase
 -----------
