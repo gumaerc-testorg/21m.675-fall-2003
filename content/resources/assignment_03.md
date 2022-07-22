@@ -5,6 +5,7 @@ file: /courses/21m-675-dance-theory-and-composition-fall-2003/01c61e3eaa107547a2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Image Map
 uid: 01c61e3e-aa10-7547-a237-fdd0b2a72e9f
 ---
 Dance composition assignment.
-

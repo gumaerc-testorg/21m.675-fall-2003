@@ -5,6 +5,7 @@ file: /courses/21m-675-dance-theory-and-composition-fall-2003/b0c64af03dc13dce36
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: "\u201CName Map\u201D Phrase"
 uid: b0c64af0-3dc1-3dce-3644-dcebd8494fae
 ---
 Dance composition assignment.
-
