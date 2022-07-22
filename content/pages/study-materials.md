@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides a list of suggested videos and DVDs for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: f8c8a4e1-6ac8-aabc-fe14-9fe83d49f78e
 ---
