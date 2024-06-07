@@ -2,6 +2,7 @@
 content_type: resource
 description: Dance composition assignment.
 file: /courses/21m-675-dance-theory-and-composition-fall-2003/b0c64af03dc13dce3644dcebd8494fae_assignment_02.pdf
+file_size: 10313
 file_type: application/pdf
 learning_resource_types:
 - Assignments
