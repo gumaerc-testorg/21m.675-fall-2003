@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Dance composition assignment.
-file: /ol-ocw-studio-app/courses/21m-675-dance-theory-and-composition-fall-2003/9514056fecacb60c3d509e75b3c9a0ff_assignment_04.pdf
+file: /courses/21m-675-dance-theory-and-composition-fall-2003/9514056fecacb60c3d509e75b3c9a0ff_assignment_04.pdf
 file_size: 10051
 file_type: application/pdf
 learning_resource_types:
